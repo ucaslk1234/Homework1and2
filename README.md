@@ -11,6 +11,11 @@ assignment2 实现如下功能：  对数据库进行增删查改
 ![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/1.3.png)
 点击“Click here to go back！”可以返回主页面，如下图所示：
 ![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/1.4.png)
+#assignment代码如下图所示：
+![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/3.1.png)
+![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/3.2.png)
+![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/3.3.png)
+![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/3.4.png)
 # Assignment 2
 进入主页面，显示学生信息，如下图所示：
 ![image](https://github.com/ucaslk1234/Homework1and2/blob/master/picture/2.1.png)
